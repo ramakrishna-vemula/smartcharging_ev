@@ -1,0 +1,131 @@
+station_name,state,city,latitude,longitude,charger_type,total_slots,occupied_slots,available_slots,busy_level,wait_time_min
+Hitec City EV Hub,Telangana,Hyderabad,17.44745,78.37623,DC Fast,8,2,6,Medium,0
+Banjara Hills EV Station,Telangana,Hyderabad,17.4156,78.4347,AC Slow,4,1,3,Medium,0
+Gachibowli EV Point,Telangana,Hyderabad,17.44002,78.3489,DC Fast,6,2,4,Low,0
+Jubilee Hills Charger,Telangana,Hyderabad,17.4318,78.4072,AC Fast,4,0,4,Low,0
+Ameerpet Charge Zone,Telangana,Hyderabad,17.4374,78.4487,DC Fast,6,2,4,Medium,0
+Secunderabad EV Hub,Telangana,Hyderabad,17.4399,78.4983,AC Slow,3,0,3,Low,0
+Kondapur EV Station,Telangana,Hyderabad,17.4607,78.3576,DC Fast,8,2,6,Low,0
+Madhapur Charger,Telangana,Hyderabad,17.4486,78.3908,AC Fast,4,0,4,Low,0
+Kukatpally EV Point,Telangana,Hyderabad,17.4849,78.4138,DC Fast,6,4,2,Medium,0
+LB Nagar Station,Telangana,Hyderabad,17.349,78.5518,AC Slow,3,1,2,Medium,0
+Dilsukhnagar Charger,Telangana,Hyderabad,17.3686,78.5265,DC Fast,4,2,2,Medium,0
+Mehdipatnam EV Hub,Telangana,Hyderabad,17.3929,78.4323,AC Fast,4,2,2,High,0
+Uppal Charge Zone,Telangana,Hyderabad,17.4059,78.5592,DC Fast,6,4,2,High,0
+Miyapur EV Point,Telangana,Hyderabad,17.4948,78.3563,DC Fast,8,4,4,Medium,0
+Begumpet Station,Telangana,Hyderabad,17.444,78.467,AC Fast,4,0,4,Low,0
+Shamshabad EV Hub,Telangana,Hyderabad,17.2407,78.4295,DC Fast,10,8,2,High,0
+Kompally Charger,Telangana,Hyderabad,17.5434,78.4847,DC Fast,6,1,5,Low,0
+Nallagandla EV Station,Telangana,Hyderabad,17.4488,78.3264,AC Fast,4,1,3,Low,0
+Manikonda Charge Point,Telangana,Hyderabad,17.3942,78.3871,AC Slow,3,1,2,Medium,0
+PVNR Expressway EV,Telangana,Hyderabad,17.3721,78.4783,DC Fast,8,2,6,Medium,0
+Hanamkonda Main Charger,Telangana,Hanamkonda,18.0139,79.5647,DC Fast,6,5,1,High,0
+Warangal Station EV Hub,Telangana,Warangal,17.9784,79.5941,AC Slow,3,1,2,Low,0
+Kazipet EV Point,Telangana,Warangal,17.968,79.623,DC Fast,4,4,0,High,16
+Hunter Road Charger,Telangana,Hanamkonda,18.0063,79.5723,AC Fast,4,1,3,Medium,0
+NIT Warangal EV Station,Telangana,Warangal,17.9856,79.5308,DC Fast,6,0,6,Low,0
+Subedari Charge Zone,Telangana,Hanamkonda,18.0198,79.558,AC Slow,3,2,1,High,0
+Nakkalagutta EV Hub,Telangana,Hanamkonda,18.0221,79.5502,DC Fast,4,2,2,High,0
+Hanamkonda Bus Stand EV,Telangana,Hanamkonda,18.0154,79.5611,AC Fast,4,1,3,Low,0
+Mulugu Road Station,Telangana,Warangal,17.9901,79.5867,DC Fast,6,3,3,Medium,0
+Wardhannapet Charger,Telangana,Warangal,17.9634,79.6102,AC Slow,3,1,2,Low,0
+Karimnagar EV Hub,Telangana,Karimnagar,18.4377,79.1288,DC Fast,4,1,3,Low,0
+Karimnagar City Charger,Telangana,Karimnagar,18.4341,79.1391,AC Fast,3,1,2,Medium,0
+Nizamabad EV Station,Telangana,Nizamabad,18.672,78.094,DC Fast,4,1,3,Medium,0
+Visakhapatnam EV Hub,Andhra Pradesh,Visakhapatnam,17.6867,83.2185,DC Fast,8,3,5,Medium,0
+Vizag Steel Gate Charger,Andhra Pradesh,Visakhapatnam,17.6987,83.2815,AC Fast,4,1,3,Low,0
+Rushikonda EV Point,Andhra Pradesh,Visakhapatnam,17.7753,83.3742,DC Fast,4,0,4,Low,0
+Vijayawada EV Hub,Andhra Pradesh,Vijayawada,16.5062,80.648,DC Fast,8,2,6,Medium,0
+Benz Circle Charger,Andhra Pradesh,Vijayawada,16.5143,80.6318,AC Fast,4,0,4,Low,0
+Guntur EV Station,Andhra Pradesh,Guntur,16.3067,80.4365,DC Fast,4,3,1,High,0
+Tirupati EV Hub,Andhra Pradesh,Tirupati,13.6288,79.4192,DC Fast,6,0,6,Low,0
+Tirumala Charger,Andhra Pradesh,Tirupati,13.6834,79.3471,AC Fast,4,4,0,High,27
+Nellore EV Station,Andhra Pradesh,Nellore,14.4449,79.9864,DC Fast,4,1,3,Low,0
+Kurnool EV Hub,Andhra Pradesh,Kurnool,15.8289,78.055,AC Fast,3,1,2,Low,0
+Koramangala EV Hub,Karnataka,Bengaluru,12.9352,77.6245,DC Fast,8,0,8,Low,0
+Whitefield Charger,Karnataka,Bengaluru,12.9698,77.7499,DC Fast,10,2,8,Low,0
+Indiranagar EV Station,Karnataka,Bengaluru,12.9784,77.6408,AC Fast,6,3,3,Medium,0
+Electronic City EV Hub,Karnataka,Bengaluru,12.8399,77.677,DC Fast,10,9,1,High,0
+HSR Layout Charger,Karnataka,Bengaluru,12.9116,77.6474,AC Slow,4,0,4,Low,0
+Marathahalli EV Point,Karnataka,Bengaluru,12.9562,77.7008,DC Fast,6,2,4,Medium,0
+Hebbal EV Station,Karnataka,Bengaluru,13.0356,77.5974,DC Fast,6,4,2,High,0
+Yeshwanthpur Charger,Karnataka,Bengaluru,13.0231,77.5418,AC Fast,4,0,4,Low,0
+Jayanagar EV Hub,Karnataka,Bengaluru,12.9247,77.5834,DC Fast,6,5,1,High,0
+Mysuru EV Hub,Karnataka,Mysuru,12.2953,76.6392,DC Fast,6,3,3,Medium,0
+Mysuru Palace Charger,Karnataka,Mysuru,12.3052,76.6553,AC Fast,4,1,3,Low,0
+Mangaluru EV Station,Karnataka,Mangaluru,12.8738,74.842,DC Fast,4,1,3,Medium,0
+Hubli EV Hub,Karnataka,Hubli,15.3597,75.1349,DC Fast,4,1,3,Medium,0
+OMR EV Hub,Tamil Nadu,Chennai,12.901,80.2279,DC Fast,8,4,4,Medium,0
+Anna Nagar Charger,Tamil Nadu,Chennai,13.0891,80.2099,AC Fast,4,3,1,High,0
+T Nagar EV Station,Tamil Nadu,Chennai,13.0418,80.2341,DC Fast,6,1,5,Low,0
+Velachery Charger,Tamil Nadu,Chennai,12.9784,80.2208,DC Fast,6,0,6,Low,0
+Adyar EV Hub,Tamil Nadu,Chennai,13.0013,80.2568,AC Fast,4,4,0,High,13
+Chennai Airport EV,Tamil Nadu,Chennai,12.9939,80.1793,DC Fast,10,7,3,High,0
+Coimbatore EV Hub,Tamil Nadu,Coimbatore,11.0168,76.9558,DC Fast,6,2,4,Medium,0
+Gandhipuram Charger,Tamil Nadu,Coimbatore,11.0074,76.9633,AC Fast,4,3,1,High,0
+Madurai EV Station,Tamil Nadu,Madurai,9.932,78.1194,DC Fast,4,4,0,High,24
+Salem EV Hub,Tamil Nadu,Salem,11.6643,78.1459,DC Fast,4,1,3,Low,0
+Trichy EV Station,Tamil Nadu,Trichy,10.7905,78.7047,DC Fast,4,4,0,High,29
+Andheri EV Hub,Maharashtra,Mumbai,19.1136,72.8697,DC Fast,8,5,3,High,0
+BKC Charger,Maharashtra,Mumbai,19.0596,72.8656,AC Fast,6,3,3,Medium,0
+Powai EV Station,Maharashtra,Mumbai,19.1176,72.906,DC Fast,6,1,5,Low,0
+Lower Parel EV Hub,Maharashtra,Mumbai,18.9978,72.8304,DC Fast,8,7,1,High,0
+Thane EV Point,Maharashtra,Mumbai,19.2183,72.9781,AC Fast,4,0,4,Low,0
+Navi Mumbai Charger,Maharashtra,Mumbai,19.033,73.0299,DC Fast,6,4,2,High,0
+Hinjewadi EV Hub,Maharashtra,Pune,18.5912,73.7389,DC Fast,8,1,7,Low,0
+Koregaon Park Charger,Maharashtra,Pune,18.5362,73.8938,AC Fast,4,4,0,High,29
+Viman Nagar EV Station,Maharashtra,Pune,18.5679,73.9143,DC Fast,6,2,4,Low,0
+Kothrud EV Point,Maharashtra,Pune,18.4999,73.8132,AC Slow,3,1,2,Medium,0
+Hadapsar EV Hub,Maharashtra,Pune,18.4998,73.9261,DC Fast,6,2,4,Low,0
+Nashik EV Station,Maharashtra,Nashik,19.9973,73.7901,DC Fast,4,1,3,Medium,0
+Nagpur EV Hub,Maharashtra,Nagpur,21.1458,79.0882,DC Fast,6,6,0,High,27
+Aurangabad EV Station,Maharashtra,Aurangabad,19.8762,75.3433,DC Fast,4,1,3,Low,0
+Connaught Place EV Hub,Delhi,New Delhi,28.6329,77.2198,DC Fast,8,2,6,Low,0
+Dwarka EV Station,Delhi,New Delhi,28.5922,77.0415,DC Fast,6,3,3,Medium,0
+Saket EV Hub,Delhi,New Delhi,28.5213,77.2136,DC Fast,8,8,0,High,8
+Rohini Charger,Delhi,New Delhi,28.7133,77.1235,AC Fast,4,0,4,Low,0
+Lajpat Nagar EV Point,Delhi,New Delhi,28.5664,77.2438,AC Fast,4,0,4,Low,0
+Noida EV Hub,Uttar Pradesh,Noida,28.5708,77.3262,DC Fast,8,2,6,Medium,0
+Sector 62 Charger,Uttar Pradesh,Noida,28.6265,77.3744,AC Fast,4,0,4,Low,0
+Gurugram EV Hub,Haryana,Gurugram,28.4439,77.0262,DC Fast,10,0,10,Low,0
+Cyber City Charger,Haryana,Gurugram,28.495,77.0896,DC Fast,8,5,3,High,0
+Faridabad EV Station,Haryana,Faridabad,28.4082,77.3135,DC Fast,4,2,2,Medium,0
+Ahmedabad EV Hub,Gujarat,Ahmedabad,23.0225,72.5714,DC Fast,8,3,5,Medium,0
+SG Highway Charger,Gujarat,Ahmedabad,23.0535,72.5243,DC Fast,6,4,2,Medium,0
+Satellite EV Station,Gujarat,Ahmedabad,23.0307,72.5258,AC Fast,4,4,0,High,23
+Surat EV Hub,Gujarat,Surat,21.1702,72.8311,DC Fast,8,5,3,Medium,0
+Vadodara EV Station,Gujarat,Vadodara,22.3072,73.1812,DC Fast,6,4,2,High,0
+Rajkot EV Hub,Gujarat,Rajkot,22.3039,70.8022,DC Fast,4,1,3,Low,0
+Jaipur EV Hub,Rajasthan,Jaipur,26.9124,75.7873,DC Fast,8,1,7,Low,0
+MI Road Charger,Rajasthan,Jaipur,26.9201,75.8027,AC Fast,4,1,3,Medium,0
+Jodhpur EV Station,Rajasthan,Jodhpur,26.2846,73.0243,DC Fast,4,1,3,Medium,0
+Udaipur EV Hub,Rajasthan,Udaipur,24.5713,73.6912,DC Fast,4,1,3,Low,0
+Indore EV Hub,Madhya Pradesh,Indore,22.7196,75.8573,DC Fast,6,4,2,High,0
+AB Road Charger,Madhya Pradesh,Indore,22.7247,75.8799,AC Fast,4,0,4,Low,0
+Bhopal EV Station,Madhya Pradesh,Bhopal,23.2595,77.4122,DC Fast,6,2,4,Medium,0
+Jabalpur EV Hub,Madhya Pradesh,Jabalpur,23.1796,79.9364,DC Fast,4,2,2,Medium,0
+Lucknow EV Hub,Uttar Pradesh,Lucknow,26.8499,80.9492,DC Fast,8,2,6,Medium,0
+Hazratganj Charger,Uttar Pradesh,Lucknow,26.8466,80.9463,AC Fast,4,1,3,Medium,0
+Agra EV Station,Uttar Pradesh,Agra,27.1767,78.0081,DC Fast,6,2,4,Low,0
+Taj Mahal EV Hub,Uttar Pradesh,Agra,27.1751,78.0422,DC Fast,8,5,3,High,0
+Varanasi EV Hub,Uttar Pradesh,Varanasi,25.3211,83.0018,DC Fast,4,2,2,High,0
+Kanpur EV Station,Uttar Pradesh,Kanpur,26.4499,80.3319,DC Fast,4,1,3,Low,0
+Park Street EV Hub,West Bengal,Kolkata,22.5527,88.3516,DC Fast,8,5,3,Medium,0
+Salt Lake Charger,West Bengal,Kolkata,22.5788,88.4165,DC Fast,6,4,2,High,0
+Howrah EV Station,West Bengal,Kolkata,22.5838,88.3154,AC Fast,4,1,3,Low,0
+New Town EV Hub,West Bengal,Kolkata,22.5886,88.4712,DC Fast,6,1,5,Low,0
+Chandigarh EV Hub,Chandigarh,Chandigarh,30.7331,76.7794,DC Fast,8,2,6,Low,0
+Sector 17 Charger,Chandigarh,Chandigarh,30.7415,76.7843,AC Fast,4,4,0,High,26
+Ludhiana EV Station,Punjab,Ludhiana,30.901,75.8573,DC Fast,6,2,4,Medium,0
+Amritsar EV Hub,Punjab,Amritsar,31.634,74.8723,DC Fast,6,0,6,Low,0
+Kochi EV Hub,Kerala,Kochi,9.9316,76.2672,DC Fast,8,5,3,High,0
+Marine Drive Charger,Kerala,Kochi,9.9664,76.2822,AC Fast,4,1,3,Medium,0
+Thiruvananthapuram EV Hub,Kerala,Thiruvananthapuram,8.5242,76.9388,DC Fast,6,1,5,Low,0
+Kozhikode EV Station,Kerala,Kozhikode,11.2496,75.7801,DC Fast,4,1,3,Medium,0
+Panaji EV Hub,Goa,Panaji,15.4938,73.8258,DC Fast,4,0,4,Low,0
+Margao EV Station,Goa,Margao,15.2736,73.9577,DC Fast,4,2,2,High,0
+Bhubaneswar EV Hub,Odisha,Bhubaneswar,20.296,85.8245,DC Fast,6,4,2,Medium,0
+Cuttack EV Station,Odisha,Cuttack,20.4612,85.8795,DC Fast,4,3,1,High,0
+Ranchi EV Hub,Jharkhand,Ranchi,23.3449,85.3096,DC Fast,4,0,4,Low,0
+Guwahati EV Hub,Assam,Guwahati,26.1445,91.7462,DC Fast,6,2,4,Medium,0
+GS Road Charger,Assam,Guwahati,26.1308,91.7962,AC Fast,4,2,2,Medium,0
